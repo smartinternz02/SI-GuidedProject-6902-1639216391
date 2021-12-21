@@ -1,8 +1,8 @@
 # Soldier Health Monitoring System
 
 ![](./Screenshots/Python-code.jpeg)
-![SPO2 and Healthrate-perminute](./Screenshots/web-app(1).jpeg)
-![](./Screenshots/web-app(2).jpeg)
-![](./Screenshots/web-app(3).jpeg)
-![](./Screenshots/web-app(4).jpeg)
+![SPO2 and Healthrate-perminute](./web-app(1).jpeg)
+![](./web-app(2).jpeg)
+![](./web-app(3).jpeg)
+![](./web-app(4).jpeg)
 
